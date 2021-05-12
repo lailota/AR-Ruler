@@ -3,3 +3,6 @@
 
 
 # AR-Ruler
+
+AR-Ruler uses augmented reality (AR) to tape measure objects in the real world with your camera.
+
